@@ -101,7 +101,7 @@
     "htm": "^2.2.1",
     "less": "^3.9.0",
     "linkstate": "^1.1.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "preact": "^10.0.0-rc.0",
     "preact-markup": "^2.0.0",
     "preact-render-to-string": "^5.0.4",
