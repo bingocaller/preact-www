@@ -78,7 +78,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.8.0",
     "jest-puppeteer": "^4.3.0",
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "less-loader": "^4.1.0",
     "lint-staged": "^9.2.0",
     "per-env": "^1.0.2",
